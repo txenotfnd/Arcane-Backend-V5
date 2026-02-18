@@ -86,8 +86,8 @@
           "hidden": false,
           "tabTitleOverride": "Welcome To ArcaneV5!",
           "_type": "CommonUI Simple Message MOTD",
-          "title": "Welcome To ArcaneV5!",
-          "body": "Welcome to ArcaneV5, Powering better multiplayer experiences than before!",
+          "title": "Welcome To XenonV1!",
+          "body": "Welcome to XenonV1, Powering better multiplayer experiences than before!",
           "offerAction": "ShowOfferDetails",
           "videoLoop": false,
           "videoStreamingEnabled": false,
@@ -227,10 +227,10 @@
           "tileImage": "https://fortnite-public-service-prod11.ol.epicgames.com/imagecdn/SpyGamesTileSize.png",
           "videoMute": false,
           "hidden": false,
-          "tabTitleOverride": "Welcome To ArcaneV5!",
+          "tabTitleOverride": "Welcome To XenonV1!",
           "_type": "CommonUI Simple Message MOTD",
-          "title": "Welcome To ArcaneV5!",
-          "body": "Welcome to ArcaneV5, We hope you have an amazing time!",
+          "title": "Welcome To XenonV1!",
+          "body": "Welcome to XenonV1, We hope you have an amazing time!",
           "offerAction": "ShowOfferDetails",
           "videoLoop": false,
           "videoStreamingEnabled": false,
@@ -13228,8 +13228,8 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "subgame": "br",
-          "title": "Welcome To ArcaneV5!",
-          "body": "Welcome to ArcaneV5, We hope you have an amazing time!",
+          "title": "Welcome To XenonV1!",
+          "body": "Welcome to XenonV1, We hope you have an amazing time!",
           "spotlight": true
         }
       ]
@@ -13249,8 +13249,8 @@
         {
           "hidden": false,
           "_type": "CommonUI Emergency Notice Base",
-          "title": "Welcome To ArcaneV5!",
-          "body": "Welcome to ArcaneV5, We hope you have an amazing time!"
+          "title": "Welcome To XenonV1!",
+          "body": "Welcome to XenonV1, We hope you have an amazing time!"
         }
       ]
     },
@@ -13289,7 +13289,7 @@
       "message": {
         "_type": "CommonUI Simple Message Base",
         "title": "ArcaneV5!",
-        "body": "Welcome to ArcaneV5, Powering better multiplayer experiences than before!"
+        "body": "Welcome to XenonV1, Powering better multiplayer experiences than before!"
       }
     },
     "_activeDate": "2017-07-19T13:14:04.490Z",
