@@ -80,8 +80,8 @@
       "motds": [
         {
           "entryType": "Website",
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/imagecdn/ArcaneV5Big.png",
-          "tileImage": "https://fortnite-public-service-prod11.ol.epicgames.com/imagecdn/ArcaneV5.png",
+          "image": "https://raw.githubusercontent.com/txenotfnd/launcherrequirements/refs/heads/main/ArcaneV5Big.png",
+          "tileImage": "https://raw.githubusercontent.com/txenotfnd/launcherrequirements/refs/heads/main/ArcaneV5.png",
           "videoMute": false,
           "hidden": false,
           "tabTitleOverride": "Welcome To ArcaneV5!",
